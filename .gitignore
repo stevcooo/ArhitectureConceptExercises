@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ArhitectureConcept.Client/.vs/ArhitectureConcept.Client/v15
+/.vs
+/ArhitectureConcept.Client/obj
+/ArhitectureConcept.Interfaces/obj
+/ArhitectureConcept.Models/obj
+/ArhitectureConcept.Services/obj
