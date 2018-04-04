@@ -10,5 +10,6 @@ namespace ArhitectureConcept.Interfaces.Services
         IEnumerable<Appointment> GetPatientAppointments(int patientId);
         Appointment GetAppointment(int id);
         void AddAppointment(Appointment appointment);
+        bool RemoveAppointment(Appointment appointment);
     }
 }

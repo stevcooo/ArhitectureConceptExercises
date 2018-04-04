@@ -44,5 +44,11 @@ namespace ArhitectureConcept.Services
             appointment.Id = DatabaseContext.Appointments.Count;
             DatabaseContext.Appointments.Add(appointment);
         }
+
+        public bool RemoveAppointment(Appointment appointment)
+        {
+            _loggerService.LogLine("RemoveAppointment " + DateTime.Now);
+            return DatabaseContext.Appointments.Remove(appointment);
+        }
     }
 }

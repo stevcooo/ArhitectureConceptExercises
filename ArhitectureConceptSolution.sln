@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArhitectureConcept.Models",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArhitectureConcept.Services", "ArhitectureConcept.Services\ArhitectureConcept.Services.csproj", "{FD72A521-6206-425E-8D65-D9294F43A702}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArhitectureConcept.Tests", "ArhitectureConcept.Tests\ArhitectureConcept.Tests.csproj", "{15493359-997A-4A98-BA6D-4F3F2D46B56A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FD72A521-6206-425E-8D65-D9294F43A702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD72A521-6206-425E-8D65-D9294F43A702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD72A521-6206-425E-8D65-D9294F43A702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15493359-997A-4A98-BA6D-4F3F2D46B56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15493359-997A-4A98-BA6D-4F3F2D46B56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15493359-997A-4A98-BA6D-4F3F2D46B56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15493359-997A-4A98-BA6D-4F3F2D46B56A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

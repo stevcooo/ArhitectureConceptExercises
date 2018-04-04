@@ -8,3 +8,10 @@
 /ArhitectureConcept.Interfaces/obj
 /ArhitectureConcept.Models/obj
 /ArhitectureConcept.Services/obj
+/ArhitectureConcept.Client/bin/Debug
+/ArhitectureConcept.Interfaces/bin/Debug
+/ArhitectureConcept.Models/bin/Debug
+/ArhitectureConcept.Services/bin/Debug
+/ArhitectureConcept.Tests/bin/Debug
+/ArhitectureConcept.Tests/obj/Debug
+/packages
