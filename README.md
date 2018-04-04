@@ -8,4 +8,4 @@ In this exercise you can get familiar with the concept of:
  * N-tire arhitecture
  * Dependency injection
  * Unit testing
- * Object mocking
+ * Mocking Objects
