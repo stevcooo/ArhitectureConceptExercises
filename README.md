@@ -7,3 +7,5 @@ In this exercise you can get familiar with the concept of:
  * Interfaces and their implementation
  * N-tire arhitecture
  * Dependency injection
+ * Unit testing
+ * Object mocking
